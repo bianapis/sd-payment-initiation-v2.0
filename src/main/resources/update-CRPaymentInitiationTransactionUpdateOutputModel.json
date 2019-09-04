@@ -1,0 +1,34 @@
+{
+  "paymentInitiationTransactionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "paymentInitiationTransactionUpdateActionTaskReference" : "PITUATR742953",
+  "paymentInitiationTransactionInstanceRecord" : {
+    "recurringPaymentRecord" : {
+      "recurringPaymentReference" : {
+        "recurringPaymentRecord" : {}
+      },
+      "recurringPaymentCustomerReference" : "725722"
+    },
+    "customerReference" : "706400",
+    "paymentTransaction" : {
+      "payerProductInstanceReference" : "717450",
+      "amount" : "USD 250",
+      "payeeReference" : "757801",
+      "paymentFeesCharges" : "paymentFeesCharges",
+      "payeeProductInstanceReference" : "737331",
+      "payerBankReference" : "732224",
+      "payeeBankReference" : "714081",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payerReference" : "723801",
+      "currency" : "USD",
+      "documentReference" : {
+        "documentRecord" : {}
+      },
+      "paymentPurpose" : "paymentPurpose",
+      "paymentMechanism" : "paymentMechanism"
+    },
+    "paymentTransactionType" : "paymentTransactionType"
+  }
+}

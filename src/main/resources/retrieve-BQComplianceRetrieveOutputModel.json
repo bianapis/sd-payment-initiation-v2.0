@@ -1,0 +1,43 @@
+{
+  "complianceInstanceAnalysis" : {
+    "complianceInstanceAnalysisRecord" : {},
+    "complianceInstanceAnalysisReportType" : "complianceInstanceAnalysisReportType",
+    "complianceInstanceAnalysisReport" : {},
+    "complianceInstanceAnalysisParameters" : "complianceInstanceAnalysisParameters"
+  },
+  "complianceRetrieveActionResponse" : "complianceRetrieveActionResponse",
+  "complianceInstanceRecord" : {
+    "paymentTransactionComplianceTaskResult" : "paymentTransactionComplianceTaskResult",
+    "paymentTransactionComplianceCheckType" : "paymentTransactionComplianceCheckType",
+    "paymentTransactionComplianceCheckResult" : "paymentTransactionComplianceCheckResult"
+  },
+  "complianceRetrieveActionTaskRecord" : {},
+  "complianceInstanceReport" : {
+    "complianceInstanceReportParameters" : "complianceInstanceReportParameters",
+    "complianceInstanceReportType" : "complianceInstanceReportType",
+    "complianceInstanceReport" : {},
+    "complianceInstanceReportRecord" : {}
+  },
+  "complianceRetrieveActionTaskReference" : "CRATR786532",
+  "paymentInitiationTransactionInstanceRecord" : {
+    "customerReference" : "722053",
+    "paymentTransaction" : {
+      "payerProductInstanceReference" : "759442",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payeeReference" : "748446",
+      "payeeProductInstanceReference" : "739094",
+      "payerReference" : "757724",
+      "payerBankReference" : "744833",
+      "payeeBankReference" : "739114",
+      "currency" : "USD",
+      "documentReference" : {
+        "documentRecord" : {}
+      },
+      "paymentPurpose" : "paymentPurpose"
+    },
+    "paymentTransactionType" : "paymentTransactionType"
+  }
+}

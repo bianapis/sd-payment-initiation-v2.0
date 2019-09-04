@@ -1,0 +1,45 @@
+{
+  "orderInitiationRetrieveActionResponse" : "orderInitiationRetrieveActionResponse",
+  "orderInitiationInstanceAnalysis" : {
+    "orderInitiationInstanceAnalysisReport" : {},
+    "orderInitiationInstanceAnalysisReportType" : "orderInitiationInstanceAnalysisReportType",
+    "orderInitiationInstanceAnalysisParameters" : "orderInitiationInstanceAnalysisParameters",
+    "orderInitiationInstanceAnalysisRecord" : {}
+  },
+  "orderInitiationInstanceRecord" : {
+    "paymentOrderProcedureInstanceReference" : "766543",
+    "orderInitiationTaskResult" : "orderInitiationTaskResult",
+    "paymentOrderProcedureInstanceStatus" : "paymentOrderProcedureInstanceStatus"
+  },
+  "orderInitiationRetrieveActionTaskReference" : "OIRATR734095",
+  "orderInitiationInstanceReport" : {
+    "orderInitiationInstanceReportParameters" : "orderInitiationInstanceReportParameters",
+    "orderInitiationInstanceReportRecord" : {},
+    "orderInitiationInstanceReport" : {},
+    "orderInitiationInstanceReportType" : "orderInitiationInstanceReportType"
+  },
+  "paymentInitiationTransactionInstanceRecord" : {
+    "customerReference" : "758313",
+    "paymentTransaction" : {
+      "payerProductInstanceReference" : "776318",
+      "amount" : "USD 250",
+      "payeeReference" : "706239",
+      "paymentFeesCharges" : "paymentFeesCharges",
+      "payeeProductInstanceReference" : "784554",
+      "payerBankReference" : "726371",
+      "payeeBankReference" : "753753",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payerReference" : "771213",
+      "currency" : "USD",
+      "documentReference" : {
+        "documentRecord" : {}
+      },
+      "paymentPurpose" : "paymentPurpose",
+      "paymentMechanism" : "paymentMechanism"
+    },
+    "paymentTransactionType" : "paymentTransactionType"
+  },
+  "orderInitiationRetrieveActionTaskRecord" : {}
+}

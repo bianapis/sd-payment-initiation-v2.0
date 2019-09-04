@@ -1,0 +1,35 @@
+{
+  "fundingCheckRetrieveActionTaskRecord" : {},
+  "fundingCheckInstanceReport" : {
+    "fundingCheckInstanceReport" : {},
+    "fundingCheckInstanceReportRecord" : {},
+    "fundingCheckInstanceReportType" : "fundingCheckInstanceReportType",
+    "fundingCheckInstanceReportParameters" : "fundingCheckInstanceReportParameters"
+  },
+  "fundingCheckRetrieveActionTaskReference" : "FCRATR717682",
+  "fundingCheckRetrieveActionResponse" : "fundingCheckRetrieveActionResponse",
+  "fundingCheckInstanceAnalysis" : {
+    "fundingCheckInstanceAnalysisParameters" : "fundingCheckInstanceAnalysisParameters",
+    "fundingCheckInstanceAnalysisReport" : {},
+    "fundingCheckInstanceAnalysisRecord" : {},
+    "fundingCheckInstanceAnalysisReportType" : "fundingCheckInstanceAnalysisReportType"
+  },
+  "paymentInitiationTransactionInstanceRecord" : {
+    "customerReference" : "768304",
+    "paymentTransaction" : {
+      "payerProductInstanceReference" : "772075",
+      "amount" : "USD 250",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "paymentFeesCharges" : "paymentFeesCharges",
+      "payerReference" : "736058",
+      "payerBankReference" : "733044",
+      "currency" : "USD"
+    },
+    "paymentTransactionType" : "paymentTransactionType"
+  },
+  "fundingCheckInstanceRecord" : {
+    "paymentTransactionFundingCheckResult" : "paymentTransactionFundingCheckResult"
+  }
+}

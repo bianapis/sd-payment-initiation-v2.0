@@ -1,0 +1,23 @@
+{
+  "paymentInitiationTransactionInstanceReference" : "PITIR771915",
+  "paymentInitiationTransactionInstanceStatus" : "paymentInitiationTransactionInstanceStatus",
+  "paymentInitiationTransactionInitiateActionReference" : "PITIAR774158",
+  "paymentInitiationTransactionInstanceRecord" : {
+    "recurringPaymentRecord" : {
+      "recurringPaymentReference" : {
+        "recurringPaymentRecord" : {}
+      },
+      "recurringPaymentCustomerReference" : "758249"
+    },
+    "paymentTransaction" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "paymentFeesCharges" : "paymentFeesCharges",
+      "documentReference" : {
+        "documentRecord" : {}
+      }
+    }
+  },
+  "paymentInitiationTransactionInitiateActionRecord" : {}
+}

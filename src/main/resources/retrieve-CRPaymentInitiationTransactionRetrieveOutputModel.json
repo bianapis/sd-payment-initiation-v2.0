@@ -1,0 +1,44 @@
+{
+  "paymentInitiationTransactionInstanceReportRecord" : {
+    "paymentInitiationTransactionInstanceReport" : {},
+    "paymentInitiationTransactionInstanceReportData" : "paymentInitiationTransactionInstanceReportData",
+    "paymentInitiationTransactionInstanceReportType" : "paymentInitiationTransactionInstanceReportType"
+  },
+  "paymentInitiationTransactionRetrieveActionTaskRecord" : {},
+  "paymentInitiationTransactionInstanceRecord" : {
+    "recurringPaymentRecord" : {
+      "recurringPaymentReference" : {
+        "recurringPaymentRecord" : {}
+      },
+      "recurringPaymentCustomerReference" : "741580"
+    },
+    "customerReference" : "713645",
+    "paymentTransaction" : {
+      "payerProductInstanceReference" : "778001",
+      "amount" : "USD 250",
+      "payeeReference" : "799739",
+      "paymentFeesCharges" : "paymentFeesCharges",
+      "payeeProductInstanceReference" : "794384",
+      "payerBankReference" : "700546",
+      "payeeBankReference" : "754149",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "payerReference" : "783540",
+      "currency" : "USD",
+      "documentReference" : {
+        "documentRecord" : {}
+      },
+      "paymentPurpose" : "paymentPurpose",
+      "paymentMechanism" : "paymentMechanism"
+    },
+    "paymentTransactionType" : "paymentTransactionType"
+  },
+  "paymentInitiationTransactionRetrieveActionTaskReference" : "PITRATR714088",
+  "paymentInitiationTransactionInstanceAnalysis" : {
+    "paymentInitiationTransactionInstanceAnalysisReportType" : "paymentInitiationTransactionInstanceAnalysisReportType",
+    "paymentInitiationTransactionInstanceAnalysisReport" : {},
+    "paymentInitiationTransactionInstanceAnalysisData" : "paymentInitiationTransactionInstanceAnalysisData"
+  },
+  "paymentInitiationTransactionRetrieveActionResponse" : "paymentInitiationTransactionRetrieveActionResponse"
+}
